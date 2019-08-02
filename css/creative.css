@@ -43,8 +43,38 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
+#contact {
+  background-color: #fff !important;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 0px;
+}
+
+.container {
+  margin-top: 20px;
+}
+
 .bg-primary {
   background-color: #F05F40 !important;
+}
+
+.bg-primary2 {
+  background-color: #989eb0 !important;
+  padding-top: 75px;
+}
+
+.bg-primary3 {
+  background-color: #F08080 !important;
+  padding-top: 75px;
+  border-width: 3px;
+  border-style: solid;
+  border-image: 
+    linear-gradient(
+      to bottom, 
+      red, 
+      rgba(0, 0, 0, 0)
+    ) 1 100%;
 }
 
 .bg-dark {
