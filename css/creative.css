@@ -43,8 +43,12 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
+i {
+  padding-right: 15px;
+}
+
 #contact {
-  background-color: #666 !important;
+  background-color: #333 !important;
   color: black;
   font-size: 20px;
   font-weight: bold;
@@ -55,6 +59,7 @@ h6 {
   justify-content: center;
   display: flex;
   word-wrap: break-word;
+  font-size: 14px;
 }
 
 .container {
@@ -66,7 +71,7 @@ h6 {
 }
 
 .bg-primary2 {
-  background-color: #989eb0 !important;
+  background-color: #339999 !important;
   padding-top: 75px;
 }
 
