@@ -55,10 +55,16 @@ i {
   padding-bottom: 0px;
 }
 
+div {
+  justify-content: center;
+  margin: auto;
+}
+
 .btn {
   justify-content: center;
   display: flex;
   word-wrap: break-word;
+  margin: auto;
   font-size: 14px;
 }
 
